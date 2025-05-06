@@ -1,1 +1,0 @@
-Thái Văn, Phúc (2024). Butterfly Image Classification (Version 2) [Dataset]. Kaggle. [https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data) 
