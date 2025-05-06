@@ -4,7 +4,7 @@
 
 Human intervention in the decline of butterfly species populations may be necessary in the near future. The automation of butterfly identification and classification can aid in scientific research and biodiversity conservation workflows. 
 
-Read the [Final Report](docs/report.pdf) or view the [Project Presentation](docs/447-present).
+Read the [Project Report](report.pdf) or view the Project Presentations [I](447-present.pdf) &/or [II](447-present-(fin).pdf).
 
 
 ## Technologies 
@@ -24,7 +24,7 @@ Read the [Final Report](docs/report.pdf) or view the [Project Presentation](docs
 
 1. <b>Butterfly Image Classification Dataset (Version 2)</b>: [https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data](https://www.kaggle.com/datasets/phucthaiv02/butterfly-image-classification/data) 
 
-2. <b>[Final_ML_Butterfly_Classification.ipynb](notebooks/Final_ML_Butterfly_Classification.ipynb)</b>
+2. <b>[Final_ML_Butterfly_Classification.ipynb](Final_ML_Butterfly_Classification.ipynb)</b>
 
 ## 
 
