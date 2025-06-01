@@ -2,9 +2,11 @@
 
 ## Project & Overview
 
-Human intervention in the decline of butterfly species populations may be necessary in the near future. The automation of butterfly identification and classification can aid in scientific research and biodiversity conservation workflows. Two CNN models were trained and analyzed in this project, with the ResNet50 improving upon the custom SimpleButterflyCNN model's classification results.
+Human intervention in the decline of butterfly species populations may be necessary in the near future. The automation of butterfly identification and classification can aid in scientific research and biodiversity conservation workflows. 
 
-Read the [Project Report](report.pdf) or view the Project Presentations [I (6-7 min)](Presentation_I_(6-7min).pdf) &/or [II (10-15 min)](Presentation_II_(10-15min).pdf).
+Two CNN models were trained and analyzed in this project, with the **ResNet50** (96.69% training accuracy, 91.77% validation accuracy; 0.92 precision, 0.91 recall, 0.91 f1-score, 1300 support) improving upon the custom **SimpleButterflyCNN** model's (69.34% training accuracy, 72.38% validation accuracy) classification results.
+
+Read the [Project Report](report.pdf) or view the Project Presentations [I (6-7 min)](Presentation_I_(6-7min).pdf) &/or [II (10-15 min)](Presentation_II_(10-15min).pdf) for a comprehensive overview of the project.
 
 
 ## Technologies 
